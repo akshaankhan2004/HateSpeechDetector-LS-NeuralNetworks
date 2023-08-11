@@ -1,4 +1,4 @@
-# Hate Speech Detector LS: Neural Networks
+# Hate Speech Detector LS 2023: Neural Networks
 This is my repository for LearnerSpace 2023 project for Neural Networks.
 
 The course consisted of 4 weeks of learnings and assignments with a Final Project at the end. The final project was to fine-tune a pre-trained model for a specific downstream task, and create a simple demo app to interact with it.
